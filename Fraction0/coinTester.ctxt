@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=coins
+comment1.target=int\ run(int)
+comment2.params=coins
+comment2.target=void\ trial(int)
+comment3.params=unrounded\ precision\ roundingMode
+comment3.target=double\ round(double,\ int,\ int)
+numComments=4

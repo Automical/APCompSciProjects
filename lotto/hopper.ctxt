@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=hopper()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ hopper\r\n
+comment1.params=num
+comment1.target=hopper(int)
+comment2.params=
+comment2.target=int\ pick()
+comment3.params=ball\ d\ g2
+comment3.target=void\ pickD(int,\ Dot[],\ java.awt.Graphics2D)
+comment4.params=select\ ball\ g2
+comment4.target=void\ draw(int,\ int,\ java.awt.Graphics2D)
+comment5.params=num\ target
+comment5.target=void\ swap(int,\ int)
+comment6.params=count
+comment6.target=void\ delay(int)
+numComments=7

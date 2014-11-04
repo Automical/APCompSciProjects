@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a
+comment1.target=void\ bubbleSort(int[])
+comment2.params=a\ g2
+comment2.target=void\ bubbleSort(int[],\ java.awt.Graphics2D)
+comment3.params=d\ g2
+comment3.target=void\ colorSort(Dot[],\ java.awt.Graphics2D)
+comment4.params=a\ i\ j
+comment4.target=void\ swap(int[],\ int,\ int)
+comment5.params=a\ i\ j\ g2
+comment5.target=void\ swap(int[],\ int,\ int,\ java.awt.Graphics2D)
+comment6.params=a\ i\ j\ g2
+comment6.target=void\ swap3(int[],\ int,\ int,\ java.awt.Graphics2D)
+comment7.params=d\ c\ i\ j\ g2
+comment7.target=void\ colorSwap(Dot[],\ int[],\ double,\ double,\ java.awt.Graphics2D)
+comment7.text=\r\n\ \ \ \ public\ static\ void\ swap2(int[]\ c,\ int\ i,\ int\ j,\ Graphics2D\ g2)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Dot\ d1\ \=\ new\ Dot(i,\ a[i],\ Color.black);\r\n\ \ \ \ \ \ \ \ Dot\ d2\ \=\ new\ Dot(j,\ a[j],\ Color.blue);\r\n\ \ \ \ \ \ \ \ int\ tmp\ \=\ a[i];\r\n\ \ \ \ \ \ \ \ a[i]\ \=\ a[j];\r\n\ \ \ \ \ \ \ \ a[j]\ \=\ tmp;\r\n\ \ \ \ \ \ \ \ d1.teleport(g2,\ i,a[i]);\r\n\ \ \ \ \ \ \ \ d2.teleport(g2,\ j,a[j]);\r\n\ \ \ \ }\r\n
+numComments=8

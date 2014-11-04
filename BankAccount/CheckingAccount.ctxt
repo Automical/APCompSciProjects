@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=amt
+comment0.target=CheckingAccount(double)
+comment1.params=amt
+comment1.target=void\ deposit(double)
+comment2.params=amt
+comment2.target=void\ withdraw(double)
+comment3.params=
+comment3.target=void\ deductFees()
+numComments=4

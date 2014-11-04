@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=coin()
+comment1.params=c
+comment1.target=coin(char)
+comment2.params=c
+comment2.target=void\ setState(char)
+comment3.params=
+comment3.target=char\ getState()
+comment4.params=
+comment4.target=char\ flip()
+numComments=5

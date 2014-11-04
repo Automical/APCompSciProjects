@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=column
+comment0.target=info.gridworld.grid.Location\ dropLocationForColumn(int)
+comment1.params=column\ pieceColor
+comment1.target=boolean\ dropMatchesNeighbors(int,\ java.awt.Color)
+comment1.text=public\ boolean\ dropMatchesNeighbors(int\ column,\ Color\ pieceColor)\r\n\ \ \ {\r\n\ \ \ \ \ \ Location\ loc\ \=\ dropLocationForColumn(column);\r\n\ \ \ \ \ \ if\ (loc\ \=\=\ null)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ ArrayList<Piece>\ neighbors\ \=\ theGrid.getNeighbors(loc);\r\n\ \ \ \ \ \ int\ colorCount\ \=\ 0;\r\n\ \ \ \ \ \ for\ (Piece\ nextNbr\ \:\ neighbors)\r\n\ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ if\ (nextNbr.getColor().equals(pieceColor))\r\n\ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ colorCount++;\r\n\ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ return\ (colorCount\ >\=\ 4);\r\n}*
+comment2.params=column\ pieceColor
+comment2.target=int\ Neighbors(int,\ java.awt.Color)
+comment3.params=column\ pieceColor
+comment3.target=int\ line(int,\ java.awt.Color)
+comment4.params=
+comment4.target=java.util.ArrayList\ getWinners()
+comment5.params=gr
+comment5.target=DropGame(info.gridworld.grid.Grid)
+numComments=6

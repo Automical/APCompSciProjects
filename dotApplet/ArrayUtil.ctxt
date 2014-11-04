@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ n
+comment0.target=int[]\ randomIntArray(int,\ int)
+comment0.text=\ Creates\ an\ array\ filled\ with\ random\ values\r\n\ param\ length\ the\ length\ of\ the\ array\r\n\ param\ n\ the\ number\ of\ posible\ random\ values\r\n\ return\ an\ array\ filled\ with\ length\ values\ between\ 1\ and\ n-1\r\n
+comment1.params=a
+comment1.target=void\ print(int[])
+comment1.text=prints\ all\ elements\ in\ an\ array\r\n\ param\ a\ the\ array\ to\ print\r\n
+numComments=2

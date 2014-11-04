@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bank()
+comment1.params=a
+comment1.target=void\ addAccount(BankAccount)
+comment2.params=
+comment2.target=double\ getTotalBalance()
+comment3.params=atLeast
+comment3.target=int\ count(double)
+comment4.params=accountNumber
+comment4.target=BankAccount\ find(int)
+comment5.params=
+comment5.target=BankAccount\ getMax()
+comment6.params=
+comment6.target=void\ display()
+numComments=7

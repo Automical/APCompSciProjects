@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=store()
+comment1.params=amt
+comment1.target=store(double)
+comment2.params=cashes
+comment2.target=void\ deposit(cashRegister[])
+comment3.params=cashes
+comment3.target=void\ cashIn(cashRegister[])
+numComments=4

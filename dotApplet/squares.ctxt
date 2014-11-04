@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=ex\ why
+comment0.target=squares(int,\ int)
+comment1.params=
+comment1.target=void\ nothing()
+comment2.params=
+comment2.target=boolean\ status()
+comment3.params=b
+comment3.target=void\ setStatus(boolean)
+comment4.params=g2
+comment4.target=void\ drawo(java.awt.Graphics2D)
+comment5.params=g2
+comment5.target=void\ drawx(java.awt.Graphics2D)
+comment6.params=g2
+comment6.target=void\ colony(java.awt.Graphics2D)
+comment7.params=
+comment7.target=void\ colony()
+comment8.params=g2
+comment8.target=void\ dead(java.awt.Graphics2D)
+comment9.params=
+comment9.target=void\ dead()
+numComments=10

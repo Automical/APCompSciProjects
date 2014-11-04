@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=disk(int)
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=g2\ p1\ p2
+comment2.target=void\ move(java.awt.Graphics2D,\ peg,\ peg)
+comment3.params=g2
+comment3.target=void\ erase(java.awt.Graphics2D)
+comment4.params=count
+comment4.target=void\ delay(int)
+numComments=5

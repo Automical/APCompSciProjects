@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=quickSorter(int[])
+comment1.params=array\ asdf
+comment1.target=quickSorter(int[],\ java.awt.Graphics2D)
+comment10.params=count
+comment10.target=void\ delay(int)
+comment2.params=from\ to
+comment2.target=void\ sort(int,\ int)
+comment3.params=from\ to
+comment3.target=void\ vsort(int,\ int)
+comment4.params=from\ to
+comment4.target=int\ partition(int,\ int)
+comment5.params=from\ to
+comment5.target=int\ vpartition(int,\ int)
+comment6.params=num\ target
+comment6.target=void\ swap(int,\ int)
+comment7.params=
+comment7.target=void\ print()
+comment8.params=
+comment8.target=void\ display()
+comment9.params=num\ target
+comment9.target=void\ vswap(int,\ int)
+numComments=11

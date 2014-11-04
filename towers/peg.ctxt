@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=rx\ ry\ pn
+comment0.target=peg(int,\ int,\ int)
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=
+comment2.target=int\ pegnum()
+numComments=3

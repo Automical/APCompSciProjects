@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ getActors()
+comment1.params=directions
+comment1.target=java.util.ArrayList\ getLocationsInDirections(int[])
+comment1.text=ublic\ void\ processActors(ArrayList<Actor>\ actors)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ ArrayList<Actor>\ kidsActors\=\ getActors();\r\n\ \ \ \ \ \ \ \ super.processActors(kidsActors);\r\n}
+numComments=2

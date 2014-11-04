@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=color
+comment0.target=Piece(java.awt.Color)
+comment1.params=color\ lo
+comment1.target=Piece(java.awt.Color,\ info.gridworld.grid.Location)
+comment2.params=c
+comment2.target=void\ setColor(java.awt.Color)
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment4.params=
+comment4.target=info.gridworld.grid.Location\ getLocation()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
